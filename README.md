@@ -34,7 +34,7 @@ button{
 
     <button onclick="mostrarCarta()">SÍ</button>
 
-    <button onclick="alert('❌ Error: opción no disponible. Por favor elija SÍ.')">
+    <button onclick="alert(' Cómo que no 🤨 .')">
         NO
     </button>
 </div>
